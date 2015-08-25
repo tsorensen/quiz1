@@ -55,4 +55,22 @@ You can run `npm test` as many times as you want, and it will give you the
 results of the tests. Keep fixing your code to make the functions do what they're
 supposed to.
 
+Once your done and you have all your tests running and passing, you'll want to
+commit your code. In the command-line, enter `git add .` to stage all of your
+changes and `git commit -m 'I fixed the tests'` to commit those staged changes.
+After your done, run `git push` to push to your repository.
 
+After you've got your code pushed up, you need to submit a pull request. On the
+quiz1 repo page under your account, Click on the Pull Requests button in the
+right sidebar. Click on Create Pull Request and make sure that dgm-ria-fall-2015/quiz1
+repo is selected as the base, and yours as the compare fork. You should see
+a list of code differences.
+
+Once the Pull Request is created, I'll review them as needed. Note that these
+are open and can be viewed by anyone. I'm not going to stop you from viewing
+and using others' code, but you'll be doing yourself a great disservice if you
+don't stop to figure out why things work the way they do. You'll be seeing and
+using other people's code every day, but you need to know what parts are good
+and what parts are garbage, or how to fix other people's code. Asking why
+people did things the way they did is a great way to collaborate and learn
+new ways of doing things.
