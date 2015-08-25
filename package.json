@@ -1,0 +1,27 @@
+{
+  "name": "quiz1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgm-ria-fall-2015/quiz1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgm-ria-fall-2015/quiz1/issues"
+  },
+  "homepage": "https://github.com/dgm-ria-fall-2015/quiz1",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
