@@ -8,6 +8,7 @@
     "test": "test"
   },
   "scripts": {
+    "pretest": "npm install",
     "test": "mocha"
   },
   "repository": {
